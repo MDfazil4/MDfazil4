@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @MDfazil4
+### 👋 Hi, I’m Md Fazil
 
 I'm a cybersecurity enthusiast with a passion for machine learning and blockchain technologies. With 6 months of freelancing experience, I have developed a deep understanding of the latest tools and techniques in these fields. I enjoy solving complex problems and creating secure, scalable solutions.
 
