@@ -28,7 +28,7 @@ I'm a cybersecurity enthusiast with a passion for machine learning and blockchai
 ---
 
 ### 📫 How to reach me:
-- **Email**: fazil.md@example.com
+- **Email**: fazilzaidi4@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/md-fazil-86014023a/)
 - **GitHub**: Feel free to browse my repositories and projects [here](https://github.com/MDfazil4).
 
